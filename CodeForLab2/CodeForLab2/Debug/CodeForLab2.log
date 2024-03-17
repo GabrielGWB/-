@@ -1,0 +1,6 @@
+﻿  Lab2.cpp
+  Lab2_Run.cpp
+  Lab2_fun.cpp
+D:\C语言学习\代码\xiao-bais-study\CodeForLab2\CodeForLab2\Lab2_fun.cpp(35,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  CodeForLab2.vcxproj -> D:\C语言学习\代码\xiao-bais-study\CodeForLab2\Debug\CodeForLab2.exe
